@@ -1,0 +1,14 @@
+header {
+    height: 40vh;
+    width: 100vw;
+    background-image: url(./assets/images/hero.png);
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+
+#plan-form {
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+    transform: translate(0em, 18em)
+}
